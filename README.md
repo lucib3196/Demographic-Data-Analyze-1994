@@ -9,3 +9,5 @@ Analyze the Demographic Data from 1994 Census Database using Pandas to create a 
 - Creating a Line Plot Using MatplotLib
 - Creating a Bar Plot  Using Pandas
 - Creating a Box Plot Using Seaborn 
+
+# Graphs
